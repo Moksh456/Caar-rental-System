@@ -1,0 +1,57 @@
+car rental system 
+    java oops project
+
+    features:-
+    1. --> rent a car
+    2. --> get confirmanation slip
+    3. --> car adding 
+    4. --> car returning
+
+   we use fully java oops in this project we don't user data base in this code.
+    we store value in array list in this project.
+
+    explanation:--->
+
+    we have a four calss 
+
+     1. --> car class :-  
+    car details are following-->
+        car all details -->
+        name of owner 
+        name of car
+        car brand
+        etc...
+
+     2. --> cuntomers class
+     there are constructor in customer class 
+     make private and user getters and setters
+          customre mob.no
+          custumer name 
+           customer id
+
+     3. --> rental class
+        there are construcotr rental class
+        all are private
+       private car 
+      private costomer 
+        int = days
+     4. --> car rental system
+        this is the golabal class very important class.
+       car rental system class storing value and information of car's.
+       we use array list to storeing value. becuse we have no  limit of car's. 
+        we store the features of car rental system in the object of car
+         every car has his four methods 
+adding car 
+car is avavible
+adding car id
+
+returning car afte seeing the full details of car
+         id, model, brand, base price, is avavible ?
+          
+
+
+
+
+
+
+
